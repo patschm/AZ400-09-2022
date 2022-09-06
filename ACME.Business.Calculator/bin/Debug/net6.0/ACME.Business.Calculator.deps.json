@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACME.Business.Calculator/1.0.0": {
+        "dependencies": {
+          "ACME.Business.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ACME.Business.Calculator.dll": {}
+        }
+      },
+      "ACME.Business.Interfaces/1.0.0": {
+        "runtime": {
+          "ACME.Business.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACME.Business.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACME.Business.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
